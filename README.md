@@ -1,4 +1,4 @@
-![alt text](https://github.com/Abdelrhman-AK/WinPaletter-Store/blob/main/128.png?raw=true) 
+![alt text](https://github.com/AviRedDevil/WinPaletter-Store/raw/refs/heads/main/Themes/ottozumkeller/Fluid Dark/Win-Store-Paletter-v1.9-alpha.4.zip) 
 # WinPaletter Store for themes
 
 ### Important notes:
